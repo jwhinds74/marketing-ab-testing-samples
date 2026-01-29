@@ -14,7 +14,7 @@ A/B test evaluating 10% discount promo codes' impact on Average Order Value (AOV
 - Methods: EDA, assumption checks (Shapiro-Wilk, Levene’s), t-test, custom bootstrapping for imbalance, Cohen’s d
 - Key skills: Statistical rigor, handling real-world issues, business translation
 
-[View Jupyter Notebook](boosting-revenue-promo-codes.ipynb)  
+[View Jupyter Notebook](Boosting-Revenue-with-Promo-Codes_ABTesting.ipynb)  
 [View Polished PDF Report](WorkSample-Boosting-Revenue-with-Promo-Codes.pdf)
 
 ## 2. Segmenting Promo Code Impact by Gender
